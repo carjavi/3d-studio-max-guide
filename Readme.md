@@ -5,7 +5,6 @@
 
 <img src="https://img.shields.io/badge/OS-Windows%2011-blue">
 <br>
-<br>
 
 # Hotkeys
 
